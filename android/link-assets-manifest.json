@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Fonts/Cairo-VariableFont_slnt,wght.ttf",
+      "sha1": "665ae399222c5c4e2cf11d14921df4c96b017d1d"
+    },
+    {
+      "path": "Fonts/Cairo.zip",
+      "sha1": "b66676d5d41af0467cb8955647a96c46a16bd411"
+    },
+    {
+      "path": "Fonts/OFL.txt",
+      "sha1": "763bcdafb907427dfe16cfaba6b455c1acfef44d"
+    },
+    {
+      "path": "Fonts/README.txt",
+      "sha1": "f4c05eb89f31b229908a0cf839b14e66543b31f1"
+    },
+    {
+      "path": "Fonts/static/Cairo-Black.ttf",
+      "sha1": "51d87902ff56b2e8987f7f06ef49e8d351fe0022"
+    },
+    {
+      "path": "Fonts/static/Cairo-Bold.ttf",
+      "sha1": "5a7b0543c6c62843900f5d5a049ebc32b5434f5d"
+    },
+    {
+      "path": "Fonts/static/Cairo-ExtraBold.ttf",
+      "sha1": "2e48992cc4ffd7333cdc9eb4aa2ba883c4c74f1a"
+    },
+    {
+      "path": "Fonts/static/Cairo-ExtraLight.ttf",
+      "sha1": "b30ddfae52c62b49cb3affd654b097aff5e6e849"
+    },
+    {
+      "path": "Fonts/static/Cairo-Light.ttf",
+      "sha1": "59aa049d56f70f770af92fd869ee02f6b408e444"
+    },
+    {
+      "path": "Fonts/static/Cairo-Medium.ttf",
+      "sha1": "fd8e2d03679d461b556bb4cc464811310c12ed24"
+    },
+    {
+      "path": "Fonts/static/Cairo-Regular.ttf",
+      "sha1": "c40cd69d854d12c818b30c86668a45305b531c5d"
+    },
+    {
+      "path": "Fonts/static/Cairo-SemiBold.ttf",
+      "sha1": "62ebd95c7f440e03311188c9eed02aae313045c5"
+    }
+  ]
+}

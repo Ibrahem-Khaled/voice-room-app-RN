@@ -14,12 +14,24 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-EnjoyChat-EnjoyChatTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-EnjoyChat-EnjoyChatTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		F9AC90423EAF47AFB09764A2 /* Cairo-VariableFont_slnt,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD6D2E2884E47F4A2C5C10D /* Cairo-VariableFont_slnt,wght.ttf */; };
+		11FA63D694E6405D951E5883 /* Cairo-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7264F9A86D6C43E8A90E137F /* Cairo-Black.ttf */; };
+		EBDFD23948EC4FBFBC8E7105 /* Cairo-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3A3B921FF5CD4A639C95D80A /* Cairo-Bold.ttf */; };
+		B3271E4286E54383A8C01D01 /* Cairo-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 58154D1F1C2649EBB6A532B8 /* Cairo-ExtraBold.ttf */; };
+		C995E8249E90498F9942A0C7 /* Cairo-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AEF7034D387D41E18D1123DD /* Cairo-ExtraLight.ttf */; };
+		1A3EA311D04D47418BC3A8D4 /* Cairo-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E923859FB33F421FBF5420A4 /* Cairo-Light.ttf */; };
+		A905FCBE92614DFDA2A75439 /* Cairo-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2B8E17A5BCF749E18FFF567F /* Cairo-Medium.ttf */; };
+		AF89F6E898A34097BB5087B5 /* Cairo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6D66DA9CE34B4E8AA184C624 /* Cairo-Regular.ttf */; };
+		DAB06FA9B34B4823B024CB55 /* Cairo-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 74E5B302D782406389242C66 /* Cairo-SemiBold.ttf */; };
+		937A3A242123402287DC8637 /* Cairo.zip in Resources */ = {isa = PBXBuildFile; fileRef = 7CD1B55946C74EC8B1AF2B38 /* Cairo.zip */; };
+		B94027185B6A4DC48081D482 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 96699316F1B0457F86C7AFA9 /* OFL.txt */; };
+		05CD3EA7B87A40EFAB5CC33B /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = A39CFDDE791841D9898E07E8 /* README.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
 		00E356F41AD99517003FC87E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
+			containerPortal = 83CBB9F71A601CBA00E9B192;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
 			remoteInfo = EnjoyChat;
@@ -44,6 +56,18 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = EnjoyChat/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-EnjoyChat-EnjoyChatTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EnjoyChat-EnjoyChatTests.release.xcconfig"; path = "Target Support Files/Pods-EnjoyChat-EnjoyChatTests/Pods-EnjoyChat-EnjoyChatTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		BAD6D2E2884E47F4A2C5C10D /* Cairo-VariableFont_slnt,wght.ttf */ = {isa = PBXFileReference; name = "Cairo-VariableFont_slnt,wght.ttf"; path = "../Fonts/Cairo-VariableFont_slnt,wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7264F9A86D6C43E8A90E137F /* Cairo-Black.ttf */ = {isa = PBXFileReference; name = "Cairo-Black.ttf"; path = "../Fonts/static/Cairo-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3A3B921FF5CD4A639C95D80A /* Cairo-Bold.ttf */ = {isa = PBXFileReference; name = "Cairo-Bold.ttf"; path = "../Fonts/static/Cairo-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		58154D1F1C2649EBB6A532B8 /* Cairo-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Cairo-ExtraBold.ttf"; path = "../Fonts/static/Cairo-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AEF7034D387D41E18D1123DD /* Cairo-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Cairo-ExtraLight.ttf"; path = "../Fonts/static/Cairo-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E923859FB33F421FBF5420A4 /* Cairo-Light.ttf */ = {isa = PBXFileReference; name = "Cairo-Light.ttf"; path = "../Fonts/static/Cairo-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2B8E17A5BCF749E18FFF567F /* Cairo-Medium.ttf */ = {isa = PBXFileReference; name = "Cairo-Medium.ttf"; path = "../Fonts/static/Cairo-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6D66DA9CE34B4E8AA184C624 /* Cairo-Regular.ttf */ = {isa = PBXFileReference; name = "Cairo-Regular.ttf"; path = "../Fonts/static/Cairo-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		74E5B302D782406389242C66 /* Cairo-SemiBold.ttf */ = {isa = PBXFileReference; name = "Cairo-SemiBold.ttf"; path = "../Fonts/static/Cairo-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7CD1B55946C74EC8B1AF2B38 /* Cairo.zip */ = {isa = PBXFileReference; name = "Cairo.zip"; path = "../Fonts/Cairo.zip"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		96699316F1B0457F86C7AFA9 /* OFL.txt */ = {isa = PBXFileReference; name = "OFL.txt"; path = "../Fonts/OFL.txt"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A39CFDDE791841D9898E07E8 /* README.txt */ = {isa = PBXFileReference; name = "README.txt"; path = "../Fonts/README.txt"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,7 +137,7 @@
 			name = Libraries;
 			sourceTree = "<group>";
 		};
-		83CBB9F61A601CBA00E9B192 = {
+		83CBB9F61A601CBA00E9B192 /* PBXGroup */ = {
 			isa = PBXGroup;
 			children = (
 				13B07FAE1A68108700A75B9A /* EnjoyChat */,
@@ -122,6 +146,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				FF3596C114A740D6A5E64CA7 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +172,26 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		FF3596C114A740D6A5E64CA7 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				BAD6D2E2884E47F4A2C5C10D /* Cairo-VariableFont_slnt,wght.ttf */,
+				7264F9A86D6C43E8A90E137F /* Cairo-Black.ttf */,
+				3A3B921FF5CD4A639C95D80A /* Cairo-Bold.ttf */,
+				58154D1F1C2649EBB6A532B8 /* Cairo-ExtraBold.ttf */,
+				AEF7034D387D41E18D1123DD /* Cairo-ExtraLight.ttf */,
+				E923859FB33F421FBF5420A4 /* Cairo-Light.ttf */,
+				2B8E17A5BCF749E18FFF567F /* Cairo-Medium.ttf */,
+				6D66DA9CE34B4E8AA184C624 /* Cairo-Regular.ttf */,
+				74E5B302D782406389242C66 /* Cairo-SemiBold.ttf */,
+				7CD1B55946C74EC8B1AF2B38 /* Cairo.zip */,
+				96699316F1B0457F86C7AFA9 /* OFL.txt */,
+				A39CFDDE791841D9898E07E8 /* README.txt */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -196,14 +241,14 @@
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		83CBB9F71A601CBA00E9B192 /* Project object */ = {
+		83CBB9F71A601CBA00E9B192 = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1210;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
-						TestTargetID = 13B07F861A680F5B00A75B9A;
+						TestTargetID = 13B07F861A680F5B00A75B9A /* EnjoyChat */;
 					};
 					13B07F861A680F5B00A75B9A = {
 						LastSwiftMigration = 1120;
@@ -218,7 +263,7 @@
 				en,
 				Base,
 			);
-			mainGroup = 83CBB9F61A601CBA00E9B192;
+			mainGroup = 83CBB9F61A601CBA00E9B192 /* PBXGroup */;
 			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -243,6 +288,18 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				F9AC90423EAF47AFB09764A2 /* Cairo-VariableFont_slnt,wght.ttf in Resources */,
+				11FA63D694E6405D951E5883 /* Cairo-Black.ttf in Resources */,
+				EBDFD23948EC4FBFBC8E7105 /* Cairo-Bold.ttf in Resources */,
+				B3271E4286E54383A8C01D01 /* Cairo-ExtraBold.ttf in Resources */,
+				C995E8249E90498F9942A0C7 /* Cairo-ExtraLight.ttf in Resources */,
+				1A3EA311D04D47418BC3A8D4 /* Cairo-Light.ttf in Resources */,
+				A905FCBE92614DFDA2A75439 /* Cairo-Medium.ttf in Resources */,
+				AF89F6E898A34097BB5087B5 /* Cairo-Regular.ttf in Resources */,
+				DAB06FA9B34B4823B024CB55 /* Cairo-SemiBold.ttf in Resources */,
+				937A3A242123402287DC8637 /* Cairo.zip in Resources */,
+				B94027185B6A4DC48081D482 /* OFL.txt in Resources */,
+				05CD3EA7B87A40EFAB5CC33B /* README.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,7 +320,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
+			shellScript = "if [[ -f \"$PODS_ROOT/../.xcode.env\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env\"\nfi\nif [[ -f \"$PODS_ROOT/../.xcode.env.local\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env.local\"\nfi\n\n# The project root by default is one level up from the ios directory\nexport PROJECT_ROOT=\"$PROJECT_DIR\"/..\n\nif [[ \"$CONFIGURATION\" = *Debug* ]]; then\n  export SKIP_BUNDLING=1\nfi\nif [[ -z \"$ENTRY_FILE\" ]]; then\n  # Set the entry JS file using the bundler's entry resolution.\n  export ENTRY_FILE=\"$(\"$NODE_BINARY\" -e \"require('expo/scripts/resolveAppEntry')\" \"$PROJECT_ROOT\" ios relative | tail -n 1)\"\nfi\n\nif [[ -z \"$CLI_PATH\" ]]; then\n  # Use Expo CLI\n  export CLI_PATH=\"$(\"$NODE_BINARY\" --print \"require.resolve('@expo/cli')\")\"\nfi\nif [[ -z \"$BUNDLE_COMMAND\" ]]; then\n  # Default Expo CLI command for bundling\n  export BUNDLE_COMMAND=\"export:embed\"\nfi\n\n`\"$NODE_BINARY\" --print \"require('path').dirname(require.resolve('react-native/package.json')) + '/scripts/react-native-xcode.sh'\"`\n";
 		};
 		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -680,5 +737,5 @@
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
+	rootObject = 83CBB9F71A601CBA00E9B192;
 }
